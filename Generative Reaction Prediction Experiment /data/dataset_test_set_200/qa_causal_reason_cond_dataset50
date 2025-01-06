@@ -1,0 +1,16 @@
+qa_pair
+"Predict the product for the following reaction: First reactant: FC(F)(F)C1=CC=C(C=O)C=C1, second reactant: COC1=CC=C(C=C1)C(C)=O, The reagent: potassium hydroxide, Temperature: 20°C, Time: 1 hours, Catalyst: unknown, Solvent: methanol. Other Conditions: unknown.  The SMILES answer is: COC1=CC=C(C=C1)C(=O)C=CC1=CC=C(C=C1)C(F)(F)F
+
+"
+"Predict the product for the following reaction: First reactant: CC(C(C)=O)C(=O)OC(C)(C)C, second reactant: CC(C)(C)OC(=O)OC(=O)NO, The reagent: tert.-butylhydroperoxide; magnesium chloride, Temperature: 40°C, Time: 65 hours, Catalyst: unknown, Solvent: decane; acetonitrile. Other Conditions: unknown.  The SMILES answer is: CC(=O)C(C)(N(O)C(=O)OC(C)(C)C)C(=O)OC(C)(C)C
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=C(OCCN2C(C)=NC=C2N(=O)=O)C=C1, second reactant: COC1=CC(C=O)=C(OC)C=C1, The reagent: sodium hydroxide, Temperature: 20°C, Time: unknown hours, Catalyst: unknown, Solvent: methanol. Other Conditions: unknown.  The SMILES answer is: COC1=CC=C(OC)C(C=CC(=O)C2=CC=C(OCCN3C(C)=NC=C3N(=O)=O)C=C2)=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=C(C(C)=O)C(O)=C(CC=C)C2=C1C=CO2, second reactant: COC1=CC=CC=C1C=O, The reagent: sodium hydroxide, Temperature: 20°C, Time: 24 hours, Catalyst: unknown, Solvent: ethanol. Other Conditions: unknown.  The SMILES answer is: COC1=C(C=CC(=O)C2=C(OC)C3=C(OC=C3)C(CC=C)=C2O)C=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=C(NC2=CC(Cl)=C(Cl)C=C2)N=CC=C1, second reactant: COC1=CC(C=O)=CC(OC)=C1OC, The reagent: barium(II) hydroxide, Temperature: 30°C, Time: 14 hours, Catalyst: unknown, Solvent: methanol; water. Other Conditions: unknown.  The SMILES answer is: COC1=CC(\C=C\C(=O)C2=CC=CN=C2NC2=CC(Cl)=C(Cl)C=C2)=CC(OC)=C1OC
+
+"

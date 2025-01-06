@@ -1,0 +1,1760 @@
+"Predict the product for the following reaction: First reactant: O=C1N(CC2=CC=CC=C2)C2=CC=CC=C2C1=O, second reactant: CC(=O)C1=CC=C(Cl)C=C1
+The SMILES answer is: OC1(CC(=O)C2=CC=C(Cl)C=C2)C(=O)N(CC2=CC=CC=C2)C2=C1C=CC=C2
+
+"
+"Predict the product for the following reaction: First reactant: O=C1N(CC2=CC=CC=C2)C2=CC=CC=C2C1=O, second reactant: COC1=CC=C(C=C1)C(C)=O
+The SMILES answer is: COC1=CC=C(C=C1)C(=O)CC1(O)C(=O)N(CC2=CC=CC=C2)C2=CC=CC=C12
+
+"
+"Predict the product for the following reaction: First reactant: CCN(CC)C1=CC=C(C=O)C=C1, second reactant: O=C1CCCC1
+The SMILES answer is: CCN(CC)C1=CC=C(C=C2CCC(=CC3=CC=C(C=C3)N(CC)CC)C2=O)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=C\C=C\C1=CC=CC=C1, second reactant: C=CCCC(=O)N1[C@H](CC2=CC=CC=C2)COC1=O
+The SMILES answer is: O[C@@H](\C=C\C1=CC=CC=C1)[C@H](CC=C)C(=O)N1[C@H](CC2=CC=CC=C2)COC1=O
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=CO1, second reactant: CC(C)=O
+The SMILES answer is: CC(=O)C=CC1=CC=CO1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CNC2=C1C=CC=C2, second reactant: CC(=O)C1=CC=C(C)C=C1
+The SMILES answer is: CC1=CC=C(C=C1)C(=O)\C=C\C1=CNC2=CC=CC=C12
+
+"
+"Predict the product for the following reaction: First reactant: OC1=CC=C(C=O)C=C1, second reactant: CCOC(=O)CC#N
+The SMILES answer is: CCOC(=O)C(=C\C1=CC=C(O)C=C1)\C#N
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC(C=O)=CC=C1O, second reactant: CC(C)=O
+The SMILES answer is: COC1=C(O)C=CC(\C=C\C(=O)\C=C\C2=CC(OC)=C(O)C=C2)=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=C(OC)C=C(C=O)C=C1, second reactant: COC1=C(OC)C=C(C=C1)C(C)=O
+The SMILES answer is: COC1=C(OC)C=C(\C=C\C(=O)C2=CC(OC)=C(OC)C=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CCOC(=O)C=[N]#N, second reactant: [H]C(=O)C1=CC=CC=C1
+The SMILES answer is: CCOC(=O)C(=[N]#N)C(O)C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: CCOC(=O)C=[N]#N, second reactant: O=CC1CCCCC1
+The SMILES answer is: CCOC(=O)C(=[N]#N)C(O)C1CCCCC1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=C(O)C=CC=C1, second reactant: O=CC1=CC=C(C=C1)N(=O)=O
+The SMILES answer is: O=C1CC(OC2=CC=CC=C12)C1=CC=C(C=C1)N(=O)=O
+
+"
+"Predict the product for the following reaction: First reactant: COC1=C(OC)C=C(C=O)C=C1, second reactant: CC(C)=O
+The SMILES answer is: COC1=CC=C(\C=C\C(=O)\C=C\C2=CC(OC)=C(OC)C=C2)C=C1OC
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC=C(C(C)=O)C(O)=C1, second reactant: ClC1=CC=C(C=O)C=C1
+The SMILES answer is: COC1=CC(O)=C(C=C1)C(=O)\C=C\C1=CC=C(Cl)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CCOC(=O)C=[N]#N, second reactant: CC1=CC=C(C=O)C=C1
+The SMILES answer is: CCOC(=O)C(=[N]#N)C(O)C1=CC=C(C)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CNC2=C1C=CC=C2, second reactant: CC(=O)C1=CC=C(Cl)C=C1
+The SMILES answer is: ClC1=CC=C(C=C1)C(=O)\C=C\C1=CNC2=C1C=CC=C2
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CNC2=C1C=CC=C2, second reactant: CC(=O)C1=CC=C(Br)C=C1
+The SMILES answer is: BrC1=CC=C(C=C1)C(=O)\C=C\C1=CNC2=C1C=CC=C2
+
+"
+"Predict the product for the following reaction: First reactant: CCOC(=O)C=[N]#N, second reactant: CCCC=O
+The SMILES answer is: CCCC(O)C(=[N]#N)C(=O)OCC
+
+"
+"Predict the product for the following reaction: First reactant: CC(C)=O, second reactant: OC1=C(O)C=C(C=O)C=C1
+The SMILES answer is: OC1=CC=C(\C=C\C(=O)\C=C\C2=CC(O)=C(O)C=C2)C=C1O
+
+"
+"Predict the product for the following reaction: First reactant: O=C1CCCCC1, second reactant: O=CC1=CC(=CC=C1)N(=O)=O
+The SMILES answer is: O[C@H]([C@@H]1CCCCC1=O)C1=CC=CC(=C1)N(=O)=O
+
+"
+"Predict the product for the following reaction: First reactant: CCOC(=O)C=[N]#N, second reactant: O=CC1=CC(=CC=C1)N(=O)=O
+The SMILES answer is: CCOC(=O)C(=[N]#N)C(O)C1=CC(=CC=C1)N(=O)=O
+
+"
+"Predict the product for the following reaction: First reactant: CCOC(=O)C=[N]#N, second reactant: O=CC1=CC=C(C=C1)N(=O)=O
+The SMILES answer is: CCOC(=O)C(=[N]#N)C(O)C1=CC=C(C=C1)N(=O)=O
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=C(C=C1N(=O)=O)N(=O)=O, second reactant: O=C1CCCCC1
+The SMILES answer is: [H][C@]1(CCCCC1=O)[C@@H](O)C1=C(C=C(C=C1)N(=O)=O)N(=O)=O
+
+"
+"Predict the product for the following reaction: First reactant: O=C1N(CC2=CC=CC=C2)C2=CC=CC=C2C1=O, second reactant: CC(=O)C1=CC=C(F)C=C1
+The SMILES answer is: OC1(CC(=O)C2=CC=C(F)C=C2)C(=O)N(CC2=CC=CC=C2)C2=C1C=CC=C2
+
+"
+"Predict the product for the following reaction: First reactant: OCC1=CC=C(O1)C=O, second reactant: CC(C)CC(C)=O
+The SMILES answer is: CC(C)CC(=O)C=CC1=CC=C(CO)O1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=CO1, second reactant: CC(=O)CC(C)=O
+The SMILES answer is: CC(=O)C(=CC1=CC=CO1)C(C)=O
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=CS1, second reactant: CC(=O)C1=CC=CS1
+The SMILES answer is: [H]\C(=C(\[H])C1=CC=CS1)C(=O)C1=CC=CS1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=CS1, second reactant: O=C1CCC2=C1C=CC=C2
+The SMILES answer is: O=C1C(CC2=C1C=CC=C2)=CC1=CC=CS1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=CS1, second reactant: CC(=O)C1=CC=C(C)C=C1
+The SMILES answer is: CC1=CC=C(C=C1)C(=O)\C=C\C1=CC=CS1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=CS1, second reactant: O=C1CCCC2=C1C=CC=C2
+The SMILES answer is: O=C1C(CCC2=C1C=CC=C2)=CC1=CC=CS1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=CS1, second reactant: CC(=O)C1=CC=CC(=C1)N(=O)=O
+The SMILES answer is: O=C(\C=C\C1=CC=CS1)C1=CC(=CC=C1)N(=O)=O
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=C2OCOC2=C1, second reactant: COC1=CC(=CC(OC)=C1OC)C(C)=O
+The SMILES answer is: COC1=CC(=CC(OC)=C1OC)C(=O)\C=C\C1=CC=C2OCOC2=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=C2OCOC2=C1, second reactant: CC(=O)C1=CC=CC=C1
+The SMILES answer is: O=C(\C=C\C1=CC2=C(OCO2)C=C1)C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=C2OCOC2=C1, second reactant: COC1=CC=C(C=C1)C(C)=O
+The SMILES answer is: COC1=CC=C(C=C1)C(=O)\C=C\C1=CC2=C(OCO2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: ClC1=CC=C(C=O)C=C1, second reactant: CC(=O)C1=C(O)C=CC=C1
+The SMILES answer is: OC1=C(C=CC=C1)C(=O)\C=C\C1=CC=C(Cl)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=C(Cl)C=C1, second reactant: [H]C(=O)C1=CC=CC=C1
+The SMILES answer is: ClC1=CC=C(C=C1)C(=O)\C=C\C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=C(Br)C=C1, second reactant: BrC1=CC=C(C=O)C=C1
+The SMILES answer is: BrC1=CC=C(\C=C\C(=O)C2=CC=C(Br)C=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=C(O)C=CC=C1, second reactant: COC1=CC=C(C=O)C=C1
+The SMILES answer is: COC1=CC=C(\C=C\C(=O)C2=C(O)C=CC=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=C(O)C=CC=C1, second reactant: FC1=C(C=O)C=CC=C1
+The SMILES answer is: OC1=CC=CC=C1C(=O)\C=C\C1=C(F)C=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC(OC)=C(C(C)=O)C(O)=C1, second reactant: COC1=CC(C=O)=CC(OC)=C1OC
+The SMILES answer is: COC1=CC(O)=C(C(=O)\C=C\C2=CC(OC)=C(OC)C(OC)=C2)C(OC)=C1
+
+"
+"Predict the product for the following reaction: First reactant: COCOC1=CC=C(C(C)=O)C(O)=C1, second reactant: [H]C(=O)C1=CC=CC=C1
+The SMILES answer is: COCOC1=CC(O)=C(C=C1)C(=O)\C=C\C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=CC(O)=C1, second reactant: [H]C(=O)C1=CC=CC=C1
+The SMILES answer is: OC1=CC=CC(=C1)C(=O)\C=C\C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: [H]C(=O)C1=CC=CC=C1, second reactant: CC(=O)C1=CC=C(C)C=C1
+The SMILES answer is: CC1=CC=C(C=C1)C(=O)\C=C\C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: [H]C(=O)C1=CC=CC=C1, second reactant: COC1=CC=C(C=C1)C(C)=O
+The SMILES answer is: COC1=CC=C(C=C1)C(=O)\C=C\C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: [H]C(=O)C1=CC=CC=C1, second reactant: CC(=O)C1=CC=C(O)C=C1
+The SMILES answer is: OC1=CC=C(C=C1)C(=O)\C=C\C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC=C(C(C)=O)C(O)=C1, second reactant: COC1=CC=C(C=O)C=C1
+The SMILES answer is: COC1=CC=C(\C=C\C(=O)C2=CC=C(OC)C=C2O)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC=C(C=O)C=C1, second reactant: O=C1CCC2=C1C=CC=C2
+The SMILES answer is: COC1=CC=C(C=C2CC3=CC=CC=C3C2=O)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC=C(C=O)C=C1, second reactant: CC(=O)C1=CC=CC=C1
+The SMILES answer is: COC1=CC=C(\C=C\C(=O)C2=CC=CC=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC=C(C=O)C=C1, second reactant: O=C1CCCC2=C1C=CC=C2
+The SMILES answer is: COC1=CC=C(\C=C2/CCC3=C(C=CC=C3)C2=O)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC=C(C=O)C=C1, second reactant: COC1=CC=C(C=C1)C(C)=O
+The SMILES answer is: COC1=CC=C(\C=C\C(=O)C2=CC=C(OC)C=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC(OC)=C(C(C)=O)C(O)=C1, second reactant: COC1=C(OC)C=C(C=O)C=C1
+The SMILES answer is: COC1=CC(O)=C(C(=O)\C=C\C2=CC(OC)=C(OC)C=C2)C(OC)=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=C(OC)C=C(C=O)C=C1, second reactant: O=C1CCC2=C1C=CC=C2
+The SMILES answer is: COC1=C(OC)C=C(C=C2CC3=CC=CC=C3C2=O)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=C(OC)C=C(C=O)C=C1, second reactant: COC1=CC(OC)=C(C(C)=O)C(OC)=C1
+The SMILES answer is: COC1=CC(OC)=C(C(=O)C=CC2=CC(OC)=C(OC)C=C2)C(OC)=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC1=C(C=O)C=CC=C1, second reactant: CC(=O)C1=CC=CC=C1
+The SMILES answer is: CC1=C(\C=C\C(=O)C2=CC=CC=C2)C=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=CC=C1, second reactant: O=CC1=CC=C(C=C1)C#N
+The SMILES answer is: O=C(C=CC1=CC=C(C=C1)C#N)C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=CC=C1, second reactant: O=CC1=C2C=CC=CC2=CC2=CC=CC=C12
+The SMILES answer is: O=C(\C=C\C1=C2C=CC=CC2=CC2=C1C=CC=C2)C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=C(C)C=C1, second reactant: CN(C)C1=CC=C(C=O)C=C1
+The SMILES answer is: CN(C)C1=CC=C(\C=C\C(=O)C2=CC=C(C)C=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=C(O)C=C(O)C=C1, second reactant: OC1=C(O)C=C(C=O)C=C1
+The SMILES answer is: OC1=CC(O)=C(C=C1)C(=O)\C=C\C1=CC(O)=C(O)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CCOC(=O)C=[N]#N, second reactant: COC1=CC=C(C=O)C=C1
+The SMILES answer is: CCOC(=O)C(=[N]#N)C(O)C1=CC=C(OC)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=CO1, second reactant: CC(=O)C1=CC=CC=C1
+The SMILES answer is: O=C(\C=C\C1=CC=CO1)C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=CS1, second reactant: [H]C(=O)C1=CC=CC=C1
+The SMILES answer is: O=C(C=CC1=CC=CC=C1)C1=CC=CS1
+
+"
+"Predict the product for the following reaction: First reactant: CC1=CC=C(C=O)C=C1, second reactant: CC(=O)C1=CC=CC=C1
+The SMILES answer is: CC1=CC=C(\C=C\C(=O)C2=CC=CC=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: FC1=CC=C(C=O)C=C1, second reactant: CC(=O)C1=C(O)C=CC=C1
+The SMILES answer is: OC1=CC=CC=C1C(=O)\C=C\C1=CC=C(F)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=C(O)C=CC(Cl)=C1, second reactant: ClC1=CC=C(C=O)C=C1
+The SMILES answer is: OC1=C(C=C(Cl)C=C1)C(=O)\C=C\C1=CC=C(Cl)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=C(Br)C=C1, second reactant: BrC1=CC=C(C=O)C=C1
+The SMILES answer is: BrC1=CC=C(C=CC(=O)C2=CC=C(Br)C=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=C(N)C=CC=C1, second reactant: O=CC1=CC=C(C=C1)N(=O)=O
+The SMILES answer is: NC1=C(C=CC=C1)C(=O)\C=C\C1=CC=C(C=C1)N(=O)=O
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=C(O)C=CC=C1, second reactant: O=CC=CC1=CC=CC=C1
+The SMILES answer is: OC1=CC=CC=C1C(=O)\C=C\C=C\C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: OC1=CC=C(C=O)C=C1, second reactant: CC(C)=O
+The SMILES answer is: CC(=O)\C=C\C1=CC=C(O)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC(OC)=C(C(C)=O)C(O)=C1, second reactant: COC1=CC=C(C=O)C=C1
+The SMILES answer is: COC1=CC=C(\C=C\C(=O)C2=C(OC)C=C(OC)C=C2O)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC=C(C=O)C=C1, second reactant: O=C1CCCC2=C1C=CC=C2
+The SMILES answer is: COC1=CC=C(C=C2CCC3=CC=CC=C3C2=O)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=C1CCC2=C1C=CC=C2, second reactant: COC1=CC(C=O)=CC=C1
+The SMILES answer is: COC1=CC(C=C2CC3=C(C=CC=C3)C2=O)=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: CN(C)C1=CC=C(C=O)C=C1, second reactant: COC1=CC=C(C=C1)C(C)=O
+The SMILES answer is: COC1=CC=C(C=C1)C(=O)\C=C\C1=CC=C(C=C1)N(C)C
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC(=CC=C1)N(=O)=O, second reactant: O=C1CCCC2=C1C=CC=C2
+The SMILES answer is: O=C1C(CCC2=CC=CC=C12)=CC1=CC=CC(=C1)N(=O)=O
+
+"
+"Predict the product for the following reaction: First reactant: ClC1=CC(C=O)=CC=C1, second reactant: O=C1CCCC2=C1C=CC=C2
+The SMILES answer is: ClC1=CC=CC(C=C2CCC3=CC=CC=C3C2=O)=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC1=CC=C(C=O)C=C1, second reactant: CC(=O)C1=NC2=C(N1)C=CC=C2
+The SMILES answer is: CC1=CC=C(\C=C\C(=O)C2=NC3=CC=CC=C3N2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: ClC1=CC=C(C=O)C=C1, second reactant: CC(=O)C1=NC2=C(N1)C=CC=C2
+The SMILES answer is: ClC1=CC=C(\C=C\C(=O)C2=NC3=CC=CC=C3N2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC(C=O)=C(OC)C=C1, second reactant: COC1=CC=C(C=C1)C(C)=O
+The SMILES answer is: COC1=CC=C(C=C1)C(=O)\C=C\C1=CC(OC)=CC=C1OC
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=CC=N1, second reactant: CCOC(=O)C=[N]#N
+The SMILES answer is: CCOC(=O)C(=[N]#N)C(O)C1=NC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC=C(C=O)C=C1, second reactant: CC(=O)C1=CC=C(O)C=C1
+The SMILES answer is: COC1=CC=C(\C=C\C(=O)C2=CC=C(O)C=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=C(Cl)C=C1, second reactant: COC1=CC=CC=C1C=O
+The SMILES answer is: COC1=CC=CC=C1\C=C\C(=O)C1=CC=C(Cl)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=C(O)C=CC(Cl)=C1, second reactant: [H]C(=O)C1=CC=CC=C1
+The SMILES answer is: OC1=C(C=C(Cl)C=C1)C(=O)\C=C\C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=CC=C1, second reactant: COC1=CC(C=O)=CC=C1
+The SMILES answer is: COC1=CC(\C=C\C(=O)C2=CC=CC=C2)=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC=C(C(C)=O)C(O)=C1, second reactant: COC1=CC(C=O)=CC=C1
+The SMILES answer is: COC1=CC=CC(\C=C\C(=O)C2=CC=C(OC)C=C2O)=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=C1CCCCC1, second reactant: O=CC1=CC=C(C=C1)N(=O)=O
+The SMILES answer is: [H][C@@]1(CCCCC1=O)[C@H](O)C1=CC=C(C=C1)N(=O)=O
+
+"
+"Predict the product for the following reaction: First reactant: O=C1CCCCC1, second reactant: O=CC1=CC=CC=C1N(=O)=O
+The SMILES answer is: [H][C@@]1(CCCCC1=O)[C@H](O)C1=C(C=CC=C1)N(=O)=O
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=C(O)C=CC=C1, second reactant: COC1=CC=C(C=O)C=C1
+The SMILES answer is: COC1=CC=C(C=C1)C1CC(=O)C2=CC=CC=C2O1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=CS1, second reactant: CC(=O)C1=CC=C(O)C=C1
+The SMILES answer is: OC1=CC=C(C=C1)C(=O)\C=C\C1=CC=CS1
+
+"
+"Predict the product for the following reaction: First reactant: O=C1CSC(=O)N1, second reactant: COC1=CC(C=O)=CC=C1O
+The SMILES answer is: COC1=CC(\C=C2/SC(=O)NC2=O)=CC=C1O
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=CS1, second reactant: CCOC(=O)C=[N]#N
+The SMILES answer is: CCOC(=O)C(=[N]#N)C(O)C1=CC=CS1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=C(N)C=C1, second reactant: COC1=CC(C=O)=CC=C1
+The SMILES answer is: COC1=CC=CC(\C=C\C(=O)C2=CC=C(N)C=C2)=C1
+
+"
+"Predict the product for the following reaction: First reactant: [H]C(=O)C1=CC=CC=C1, second reactant: CC(=O)C1=NC2=C(N1)C=CC=C2
+The SMILES answer is: O=C(\C=C\C1=CC=CC=C1)C1=NC2=CC=CC=C2N1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC=C(C=O)C=C1, second reactant: CC(=O)C1=NC2=C(N1)C=CC=C2
+The SMILES answer is: COC1=CC=C(\C=C\C(=O)C2=NC3=CC=CC=C3N2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=C1CCCCC1, second reactant: O=CC1=CC(=CC=C1)N(=O)=O
+The SMILES answer is: [H][C@@]1(CCCCC1=O)[C@H](O)C1=CC(=CC=C1)N(=O)=O
+
+"
+"Predict the product for the following reaction: First reactant: O=C1CCCCC1, second reactant: O=CC1=CC=C(C=C1)C#N
+The SMILES answer is: [H][C@@]1(CCCCC1=O)[C@H](O)C1=CC=C(C=C1)C#N
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=C2OCOC2=C1, second reactant: CC(=O)C1=CC=CC=C1
+The SMILES answer is: O=C(C=CC1=CC=C2OCOC2=C1)C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: CCO, second reactant: [H]C(=O)C1=CC=CC=C1
+The SMILES answer is: O=CC=CC1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=C1NC2=CC=CC=C2C1=O, second reactant: O=C1CCCCC1
+The SMILES answer is: [H][C@@]1(CCCCC1=O)[C@@]1(O)C(=O)NC2=C1C=CC=C2
+
+"
+"Predict the product for the following reaction: First reactant: CN(C)C1=CC=C(C=O)C=C1, second reactant: O=C1CCCC2=C1C=CC=C2
+The SMILES answer is: CN(C)C1=CC=C(C=C2CCC3=CC=CC=C3C2=O)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=C(N)C=C1, second reactant: COC1=CC=C(C=O)C(OC)=C1
+The SMILES answer is: COC1=CC(OC)=C(\C=C\C(=O)C2=CC=C(N)C=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC(OC)=C(C=O)C=C1OC, second reactant: COC1=CC=C(C=C1)C(C)=O
+The SMILES answer is: COC1=CC=C(C=C1)C(=O)\C=C\C1=CC(OC)=C(OC)C=C1OC
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=CS1, second reactant: CC(=O)C1=CC=C(Br)C=C1
+The SMILES answer is: BrC1=CC=C(C=C1)C(=O)C=CC1=CC=CS1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=NC=C1, second reactant: O=CC1=CNC2=C1C=CC=C2
+The SMILES answer is: O=C(\C=C\C1=CNC2=CC=CC=C12)C1=CC=NC=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=C(N)C=C1, second reactant: COC1=CC(C=O)=C(OC)C=C1
+The SMILES answer is: COC1=CC(\C=C\C(=O)C2=CC=C(N)C=C2)=C(OC)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=C(N)C=CC=C1, second reactant: ClC1=CC(C=O)=CC=C1
+The SMILES answer is: NC1=CC=CC=C1C(=O)\C=C\C1=CC=CC(Cl)=C1
+
+"
+"Predict the product for the following reaction: First reactant: CCN(CC)C1=CC=C(C=O)C(O)=C1, second reactant: CC(=O)C1=CC=C(N)C=C1
+The SMILES answer is: CCN(CC)C1=CC=C2C=CC(=[O+]C2=C1)C1=CC=C(N)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=CO1, second reactant: CC(=O)C1=CC=C(O)C=C1
+The SMILES answer is: OC1=CC=C(C=C1)C(=O)\C=C\C1=CC=CO1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=CS1, second reactant: CC(=O)C1=CC=CC=C1
+The SMILES answer is: O=C(\C=C\C1=CC=CS1)C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=CO1, second reactant: COC1=CC=C(C=O)C=C1
+The SMILES answer is: COC1=CC=C(\C=C\C(=O)C2=CC=CO2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=C\C=C\C1=CC=CC=C1, second reactant: CC(=O)C1=CC=CS1
+The SMILES answer is: O=C(\C=C\C=C\C1=CC=CC=C1)C1=CC=CS1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=CS1, second reactant: [H]C(=O)C1=CC=CC=C1
+The SMILES answer is: O=C(\C=C\C1=CC=CC=C1)C1=CC=CS1
+
+"
+"Predict the product for the following reaction: First reactant: O=C1COC2=C1C=CC=C2, second reactant: OC1=CC=C(C=O)C=C1
+The SMILES answer is: OC1=CC=C(\C=C2/OC3=C(C=CC=C3)C2=O)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC1=CC=C(C=O)C=C1, second reactant: CC(=O)C1=CC=C(C)C=C1
+The SMILES answer is: CC1=CC=C(\C=C\C(=O)C2=CC=C(C)C=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC1=CC=C(C=O)C=C1, second reactant: CC(C)=O
+The SMILES answer is: CC(=O)C=CC1=CC=C(C)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC1=CC=C(C=O)C=C1, second reactant: COC1=CC=C(C=C1)C(C)=O
+The SMILES answer is: COC1=CC=C(C=C1)C(=O)\C=C\C1=CC=C(C)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: ClC1=CC=C(C=O)C=C1, second reactant: CC(=O)C1=CC=C(O)C=C1
+The SMILES answer is: OC1=CC=C(C=C1)C(=O)\C=C\C1=CC=C(Cl)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: ClC1=CC=CC=C1C=O, second reactant: CC(=O)C1=CC=CC=C1
+The SMILES answer is: ClC1=CC=CC=C1\C=C\C(=O)C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: CCOC(=O)C(F)(F)F, second reactant: CC(=O)C1=CC=C(F)C=C1
+The SMILES answer is: FC1=CC=C(C=C1)C(=O)CC(=O)C(F)(F)F
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=C(N)C=CC=C1, second reactant: [H]C(=O)C1=CC=CC=C1
+The SMILES answer is: NC1=C(C=CC=C1)C(=O)\C=C\C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=C(O)C=CC=C1, second reactant: [H]C(=O)C1=CC=CC=C1
+The SMILES answer is: OC1=C(C=CC=C1)C(=O)\C=C\C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: CCOC1=CC=C(C=O)C=C1, second reactant: COC1=CC=C(C=C1)C(C)=O
+The SMILES answer is: CCOC1=CC=C(\C=C\C(=O)C2=CC=C(OC)C=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC(C=O)=CC(OC)=C1OC, second reactant: COC1=CC=C(C=C1)C(C)=O
+The SMILES answer is: COC1=CC=C(C=C1)C(=O)\C=C\C1=CC(OC)=C(OC)C(OC)=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC(OC)=C(C(C)=O)C(O)=C1, second reactant: [H]C(=O)C1=CC=CC=C1
+The SMILES answer is: COC1=CC(OC)=C(C(=O)\C=C\C2=CC=CC=C2)C(O)=C1
+
+"
+"Predict the product for the following reaction: First reactant: [H]C(=O)C1=CC=CC=C1, second reactant: CC(=O)C1=CC=CC(=C1)N(=O)=O
+The SMILES answer is: O=C(\C=C\C1=CC=CC=C1)C1=CC=CC(=C1)N(=O)=O
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC=C(C=O)C=C1, second reactant: CC(C)=O
+The SMILES answer is: COC1=CC=C(C=CC(C)=O)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC=C(C=O)C=C1, second reactant: CC(C)=O
+The SMILES answer is: COC1=CC=C(\C=C\C(=O)\C=C\C2=CC=C(OC)C=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: OC1=C(C=O)C=CC=C1, second reactant: O=C1CCCCCC1
+The SMILES answer is: C1CCC2=CC3=C(OC22OC4=C(C=CC=C4)C=C2C1)C=CC=C3
+
+"
+"Predict the product for the following reaction: First reactant: COC1=C(C(C)=O)C(O)=CC=C1, second reactant: COC1=C(OC)C=C(C=O)C=C1
+The SMILES answer is: COC1=C(OC)C=C(\C=C\C(=O)C2=C(OC)C=CC=C2O)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=C(OC)C=C(C=O)C=C1, second reactant: CC(=O)C1=CC=CC=C1
+The SMILES answer is: COC1=CC=C(C=CC(=O)C2=CC=CC=C2)C=C1OC
+
+"
+"Predict the product for the following reaction: First reactant: COC1=C(OC)C=C(C=O)C=C1, second reactant: COC1=C(OC)C=C(C=C1)C(C)=O
+The SMILES answer is: COC1=CC=C(C=C1OC)C(=O)C=CC1=CC(OC)=C(OC)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: BrC1=CC=C(C=O)C=C1, second reactant: COC1=CC=C(C=C1)C(C)=O
+The SMILES answer is: COC1=CC=C(C=C1)C(=O)\C=C\C1=CC=C(Br)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=C1CCC2=C1C=CC=C2, second reactant: CN(C)C1=CC=C(C=O)C=C1
+The SMILES answer is: CN(C)C1=CC=C(C=C2CC3=C(C=CC=C3)C2=O)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=C1CCCC1, second reactant: O=CC=CC1=CC=CC=C1
+The SMILES answer is: O=C1C(CCC1=CC=CC1=CC=CC=C1)=CC=CC1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC=CC1=CC=CC=C1, second reactant: COC1=CC=C(C=C1)C(C)=O
+The SMILES answer is: COC1=CC=C(C=C1)C(=O)C=CC=CC1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=CC=C1, second reactant: CN(C)C1=CC=C(C=O)C=C1
+The SMILES answer is: CN(C)C1=CC=C(C=CC(=O)C2=CC=CC=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=CC=C1, second reactant: OC1=C(C=O)C=C(Br)C=C1
+The SMILES answer is: OC1=C(\C=C\C(=O)C2=CC=CC=C2)C=C(Br)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC(C=O)=CC=C1, second reactant: COC1=CC=C(C=C1)C(C)=O
+The SMILES answer is: COC1=CC=C(C=C1)C(=O)\C=C\C1=CC(OC)=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC=CC=C1C=O, second reactant: COC1=CC=C(C=C1)C(C)=O
+The SMILES answer is: COC1=CC=C(C=C1)C(=O)\C=C\C1=C(OC)C=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: CN(C)C1=CC=C(C=O)C=C1, second reactant: COC1=CC=C(C=C1)C(C)=O
+The SMILES answer is: COC1=CC=C(C=C1)C(=O)C=CC1=CC=C(C=C1)N(C)C
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC=C(C=C1)C(C)=O, second reactant: OC1=C(C=O)C=C(Br)C=C1
+The SMILES answer is: COC1=CC=C(C=C1)C(=O)\C=C\C1=C(O)C=CC(Br)=C1
+
+"
+"Predict the product for the following reaction: First reactant: CCOC(=O)C=[N]#N, second reactant: CC(C)(C)C=O
+The SMILES answer is: CCOC(=O)C(=[N]#N)C(O)C(C)(C)C
+
+"
+"Predict the product for the following reaction: First reactant: CC1=CC=C(C=O)C=C1, second reactant: CCOC(=O)CC#N
+The SMILES answer is: CCOC(=O)C(=C\C1=CC=C(C)C=C1)\C#N
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=NC=C1, second reactant: CC(=O)C1=CC=C(Cl)C=C1
+The SMILES answer is: ClC1=CC=C(C=C1)C(=O)C=CC1=CC=NC=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=NC=C1, second reactant: COC1=CC=C(C=C1)C(C)=O
+The SMILES answer is: COC1=CC=C(C=C1)C(=O)C=CC1=CC=NC=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=CC=N1, second reactant: CN(C)C1=CC=C(C=O)C=C1
+The SMILES answer is: CN(C)C1=CC=C(\C=C\C(=O)C2=NC=CC=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=CS1, second reactant: CN(C)C1=CC=C(C=O)C=C1
+The SMILES answer is: CN(C)C1=CC=C(\C=C\C(=O)C2=CC=CS2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC1=CC=C(C=O)C=C1, second reactant: COC1=CC=C(C=C1)C(C)=O
+The SMILES answer is: COC1=CC=C(C=C1)C(=O)C=CC1=CC=C(C)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=C(C=O)C=C1, second reactant: CC(=O)C1=CC=CC=C1
+The SMILES answer is: O=C(\C=C\C1=CC=C(\C=C\C(=O)C2=CC=CC=C2)C=C1)C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: ClC1=CC=CC=C1C=O, second reactant: CC(=O)C1=C(O)C=CC=C1
+The SMILES answer is: OC1=C(C=CC=C1)C(=O)\C=C\C1=CC=CC=C1Cl
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=C(O)C=CC=C1, second reactant: O=CC1=CC(=CC=C1)N(=O)=O
+The SMILES answer is: OC1=CC=CC=C1C(=O)\C=C\C1=CC(=CC=C1)N(=O)=O
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=C(O)C=CC=C1, second reactant: ClC1=CC(C=O)=CC=C1
+The SMILES answer is: OC1=CC=CC=C1C(=O)\C=C\C1=CC(Cl)=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=C(O)C=CC=C1, second reactant: BrC1=CC=C(C=O)C=C1
+The SMILES answer is: OC1=CC=CC=C1C(=O)\C=C\C1=CC=C(Br)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: ClC1=CC=CC(Cl)=C1C=O, second reactant: CC(=O)C1=CC=CC=C1
+The SMILES answer is: ClC1=CC=CC(Cl)=C1C=CC(=O)C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC(C)=O, second reactant: [H]C(=O)C1=CC=CC=C1
+The SMILES answer is: COC(=O)CC(O)C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: [H]C(=O)C1=CC=CC=C1, second reactant: CC(=O)CC(C)=O
+The SMILES answer is: O=C(CC(=O)\C=C\C1=CC=CC=C1)\C=C\C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC(C=O)=CC=C1O, second reactant: CC(=O)C1=CC=CC=C1
+The SMILES answer is: COC1=CC(C=CC(=O)C2=CC=CC=C2)=CC=C1O
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC=C(C(C)=O)C(O)=C1, second reactant: COC1=C(OC)C=C(C=O)C=C1
+The SMILES answer is: COC1=CC(O)=C(C=C1)C(=O)\C=C\C1=CC(OC)=C(OC)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: BrC1=CC=C(C=O)C=C1, second reactant: CC(C)=O
+The SMILES answer is: CC(=O)C=CC1=CC=C(Br)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=CC=C1, second reactant: CN(C)C1=CC=C(C=O)C=C1
+The SMILES answer is: CN(C)C1=CC=C(\C=C\C(=O)C2=CC=CC=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC(OC)=C(C(C)=O)C(O)=C1, second reactant: COC1=CC(C=O)=CC=C1
+The SMILES answer is: COC1=CC(\C=C\C(=O)C2=C(OC)C=C(OC)C=C2O)=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: CN(C)C1=CC=C(C=O)C=C1, second reactant: COC1=C(OC)C=C(C=C1)C(C)=O
+The SMILES answer is: COC1=C(OC)C=C(C=C1)C(=O)\C=C\C1=CC=C(C=C1)N(C)C
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC(OC)=C(C(C)=O)C(O)=C1, second reactant: COC1=CC=C(C=O)C(OC)=C1
+The SMILES answer is: COC1=CC(OC)=C(\C=C\C(=O)C2=C(O)C=C(OC)C=C2OC)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC(C)=O, second reactant: C=CC=O
+The SMILES answer is: COC(=O)CC(O)C=C
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=C(Br)C=C1, second reactant: COC1=CC=C(C=O)C=C1
+The SMILES answer is: COC1=CC=C(C=CC(=O)C2=CC=C(Br)C=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: ClC1=CC=C(C=O)C=C1, second reactant: COC1=CC=C(C=C1)C(C)=O
+The SMILES answer is: COC1=CC=C(C=C1)C(=O)\C=C\C1=CC=C(Cl)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=C1CCCCC1, second reactant: ClC1=CC=CC(Cl)=C1C=O
+The SMILES answer is: ClC1=CC=CC(Cl)=C1\C=C1/CCC\C(=C/C2=C(Cl)C=CC=C2Cl)C1=O
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=C(Br)C=C1, second reactant: O=CC1=CC2=CC=CC=C2C=C1
+The SMILES answer is: BrC1=CC=C(C=C1)C(=O)C=CC1=CC=C2C=CC=CC2=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=C(Br)C=C1, second reactant: CN(C)C1=CC=C(C=O)C=C1
+The SMILES answer is: CN(C)C1=CC=C(\C=C\C(=O)C2=CC=C(Br)C=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: [H]C(=O)C1=CC=CC=C1, second reactant: CC(=O)C1=CC2=C(C=CC=C2)C=C1
+The SMILES answer is: O=C(C=CC1=CC=CC=C1)C1=CC2=C(C=CC=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=CC(O)=C1, second reactant: CN(C)C1=CC=C(C=O)C=C1
+The SMILES answer is: CN(C)C1=CC=C(\C=C\C(=O)C2=CC=CC(O)=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC=C(C=O)C=C1, second reactant: CC(=O)C1=CC=C(N)C=C1
+The SMILES answer is: COC1=CC=C(\C=C\C(=O)C2=CC=C(N)C=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=C(N)C=C1, second reactant: CN(C)C1=CC=C(C=O)C=C1
+The SMILES answer is: CN(C)C1=CC=C(\C=C\C(=O)C2=CC=C(N)C=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC1=C(C=O)C=CC=C1, second reactant: CCOC(=O)CC#N
+The SMILES answer is: CCOC(=O)C(=C\C1=CC=CC=C1C)\C#N
+
+"
+"Predict the product for the following reaction: First reactant: CCOC(=O)C(F)(F)F, second reactant: CC(=O)C1=CC=C(Cl)C=C1
+The SMILES answer is: FC(F)(F)C(=O)CC(=O)C1=CC=C(Cl)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: C=O, second reactant: [H][C@@](C)(CCC=C(C)C)CC=O
+The SMILES answer is: C[C@H](CCC=C(C)C)C(=C)C=O
+
+"
+"Predict the product for the following reaction: First reactant: CCOC(=O)C=[N]#N, second reactant: CC1=C(C=O)C=CC=C1
+The SMILES answer is: CCOC(=O)C(=[N]#N)C(O)C1=CC=CC=C1C
+
+"
+"Predict the product for the following reaction: First reactant: ClC1=CC(C=O)=CC=C1, second reactant: CC(=O)C1=CC=C(O)C=C1
+The SMILES answer is: OC1=CC=C(C=C1)C(=O)\C=C\C1=CC=CC(Cl)=C1
+
+"
+"Predict the product for the following reaction: First reactant: ClC1=CC=C(C=O)C=C1, second reactant: COC1=CC=C(C(C)=O)C(OC)=C1
+The SMILES answer is: COC1=CC(OC)=C(C=C1)C(=O)\C=C\C1=CC=C(Cl)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CNC2=C1C=CC=C2, second reactant: CC(=O)C1=CC=C(O)C=C1
+The SMILES answer is: OC1=CC=C(C=C1)C(=O)\C=C\C1=CNC2=C1C=CC=C2
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=C(Cl)C=C1, second reactant: COC1=CC(C=O)=CC=C1
+The SMILES answer is: COC1=CC=CC(\C=C\C(=O)C2=CC=C(Cl)C=C2)=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=NC=C1, second reactant: CC(=O)C1=CC=C(C)C=C1
+The SMILES answer is: CC1=CC=C(C=C1)C(=O)C=CC1=CC=NC=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC(C=O)=CC=C1O, second reactant: CC(=O)C1=CC=CC=C1
+The SMILES answer is: COC1=CC(\C=C\C(=O)C2=CC=CC=C2)=CC=C1O
+
+"
+"Predict the product for the following reaction: First reactant: O=C1CCCCC1, second reactant: O=CC1=CC(=CC=C1)N(=O)=O
+The SMILES answer is: O=C1\C(CCC\C1=C/C1=CC=CC(=C1)N(=O)=O)=C\C1=CC=CC(=C1)N(=O)=O
+
+"
+"Predict the product for the following reaction: First reactant: O=C\C=C\C1=CC=CC=C1, second reactant: CCOC(=O)C=[N]#N
+The SMILES answer is: CCOC(=O)C(=[N]#N)C(O)\C=C\C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: CCOC(=O)C=[N]#N, second reactant: FC1=CC=C(C=O)C=C1
+The SMILES answer is: CCOC(=O)C(=[N]#N)C(O)C1=CC=C(F)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: FC1=CC=C(C=O)C=C1, second reactant: COC1=CC=C(C=C1)C(C)=O
+The SMILES answer is: COC1=CC=C(C=C1)C(=O)\C=C\C1=CC=C(F)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC1=CC=C(C=O)C=C1, second reactant: CC(=O)C1=CC=C(C=C1)N(=O)=O
+The SMILES answer is: CC1=CC=C(\C=C\C(=O)C2=CC=C(C=C2)N(=O)=O)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CCOC(=O)C=[N]#N, second reactant: FC(F)(F)C1=CC=C(C=O)C=C1
+The SMILES answer is: CCOC(=O)C(=[N]#N)C(O)C1=CC=C(C=C1)C(F)(F)F
+
+"
+"Predict the product for the following reaction: First reactant: O=CCCOCC1=CC=CC=C1, second reactant: CCC(=O)N1[C@H](CC2=CC=CC=C2)COC1=O
+The SMILES answer is: C[C@H]([C@@H](O)CCOCC1=CC=CC=C1)C(=O)N1[C@H](CC2=CC=CC=C2)COC1=O
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=C(Br)C=C1, second reactant: CN(C)C1=CC=C(C=O)C=C1
+The SMILES answer is: CN(C)C1=CC=C(C=CC(=O)C2=CC=C(Br)C=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=CO1, second reactant: CCOC(=O)C=[N]#N
+The SMILES answer is: CCOC(=O)C(=[N]#N)C(O)C1=CC=CO1
+
+"
+"Predict the product for the following reaction: First reactant: CCOC(=O)C=[N]#N, second reactant: BrC1=CC=C(C=O)C=C1
+The SMILES answer is: CCOC(=O)C(=[N]#N)C(O)C1=CC=C(Br)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: ClC1=CC=C(C=O)C=C1, second reactant: COC1=C(OC)C=C(C=C1)C(C)=O
+The SMILES answer is: COC1=CC=C(C=C1OC)C(=O)\C=C\C1=CC=C(Cl)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC(OC)=C(C(C)=O)C(O)=C1, second reactant: CC1=CC=C(C=O)C=C1
+The SMILES answer is: COC1=CC(OC)=C(C(=O)\C=C\C2=CC=C(C)C=C2)C(O)=C1
+
+"
+"Predict the product for the following reaction: First reactant: CCOC(=O)C=[N]#N, second reactant: COC1=CC(C=O)=CC=C1
+The SMILES answer is: CCOC(=O)C(=[N]#N)C(O)C1=CC=CC(OC)=C1
+
+"
+"Predict the product for the following reaction: First reactant: CCOC(=O)C=[N]#N, second reactant: ClC1=CC=CC=C1C=O
+The SMILES answer is: CCOC(=O)C(=[N]#N)C(O)C1=CC=CC=C1Cl
+
+"
+"Predict the product for the following reaction: First reactant: O=C\C=C\C1=CC=CC=C1, second reactant: CC(=O)C1=CC=C(C=C1)N(=O)=O
+The SMILES answer is: O=C(\C=C\C=C\C1=CC=CC=C1)C1=CC=C(C=C1)N(=O)=O
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=CS1, second reactant: CC(=O)C1=CC=CC(O)=C1
+The SMILES answer is: OC1=CC(=CC=C1)C(=O)\C=C\C1=CC=CS1
+
+"
+"Predict the product for the following reaction: First reactant: BrC1=CC=C(C=O)C=C1, second reactant: CC(=O)C1=CC=C(C)C=C1
+The SMILES answer is: CC1=CC=C(C=C1)C(=O)\C=C\C1=CC=C(Br)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC(C=O)=CC(OC)=C1OC, second reactant: COC1=C(OC)C=C(C=C1)C(C)=O
+The SMILES answer is: COC1=CC(C=CC(=O)C2=CC(OC)=C(OC)C=C2)=CC(OC)=C1OC
+
+"
+"Predict the product for the following reaction: First reactant: OCCC1=CC=CC=C1, second reactant: CC(=O)C1=CC=CC=C1
+The SMILES answer is: O=C(CCCC1=CC=CC=C1)C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=C2OCOC2=C1, second reactant: CC(=O)C1=CC=CC(=C1)N(=O)=O
+The SMILES answer is: O=C(\C=C\C1=CC=C2OCOC2=C1)C1=CC(=CC=C1)N(=O)=O
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)CO, second reactant: O=CC1=CC=CC=C1N(=O)=O
+The SMILES answer is: CC(=O)[C@H](O)[C@@H](O)C1=C(C=CC=C1)N(=O)=O
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=C(O)C=CC(Cl)=C1, second reactant: FC1=CC=C(C=O)C=C1
+The SMILES answer is: OC1=CC=C(Cl)C=C1C(=O)\C=C\C1=CC=C(F)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=C(Br)C=C1, second reactant: O=CC1=CC(=CC=C1)N(=O)=O
+The SMILES answer is: BrC1=CC=C(C=C1)C(=O)C=CC1=CC=CC(=C1)N(=O)=O
+
+"
+"Predict the product for the following reaction: First reactant: O=C1CSC(=O)N1, second reactant: ClC1=CC=C(C=O)C(Cl)=C1
+The SMILES answer is: ClC1=CC(Cl)=C(\C=C2/SC(=O)NC2=O)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=C(N)C=C1, second reactant: COC1=CC=CC=C1C=O
+The SMILES answer is: COC1=C(\C=C\C(=O)C2=CC=C(N)C=C2)C=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=C(N)C=C1, second reactant: COC1=C(OC)C(C=O)=CC=C1
+The SMILES answer is: COC1=CC=CC(\C=C\C(=O)C2=CC=C(N)C=C2)=C1OC
+
+"
+"Predict the product for the following reaction: First reactant: OC1=C(C=O)C=CC=C1, second reactant: COC1=CC=C(C=C1)C(C)=O
+The SMILES answer is: COC1=CC=C(C=C1)C(=O)\C=C\C1=C(O)C=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=C(O)C=C(C=O)C=C1, second reactant: O=C1COC2=C1C=CC=C2
+The SMILES answer is: COC1=C(O)C=C(\C=C2/OC3=C(C=CC=C3)C2=O)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=C(N)C=CC=C1, second reactant: O=CC1=CC=C(C=C1)N(=O)=O
+The SMILES answer is: NC1=CC=CC=C1C(=O)C=CC1=CC=C(C=C1)N(=O)=O
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=C(O)C=CC=C1, second reactant: FC1=CC(C=O)=CC=C1
+The SMILES answer is: OC1=CC=CC=C1C(=O)\C=C\C1=CC(F)=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=CC2=C1C=CC=C2, second reactant: COC1=CC=C(C=C1)C(C)=O
+The SMILES answer is: COC1=CC=C(C=C1)C(=O)C=CC1=CC=CC2=CC=CC=C12
+
+"
+"Predict the product for the following reaction: First reactant: COC1=C(O)C=C(C=O)C=C1, second reactant: CC(C)=O
+The SMILES answer is: COC1=CC=C(\C=C\C(=O)\C=C\C2=CC(O)=C(OC)C=C2)C=C1O
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=C(Cl)C=C1, second reactant: OCC1=CC=CC=C1
+The SMILES answer is: ClC1=CC=C(C=C1)C(=O)C=CC1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC1=CC=C(CO)C=C1, second reactant: CC(=O)C1=CC=CC=C1
+The SMILES answer is: CC1=CC=C(C=CC(=O)C2=CC=CC=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CNC2=C1C=CC=C2, second reactant: CC(=O)C1=CC=C(F)C=C1
+The SMILES answer is: FC1=CC=C(C=C1)C(=O)\C=C\C1=CNC2=CC=CC=C12
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CNC2=C1C=CC=C2, second reactant: CC(=O)C1=CC=C(C=C1)C(F)(F)F
+The SMILES answer is: FC(F)(F)C1=CC=C(C=C1)C(=O)\C=C\C1=CNC2=C1C=CC=C2
+
+"
+"Predict the product for the following reaction: First reactant: OCC1=CC(Cl)=CC=C1, second reactant: CC(=O)C1=CC=CC=C1
+The SMILES answer is: ClC1=CC(C=CC(=O)C2=CC=CC=C2)=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=CO1, second reactant: CC(=O)C1=CC=C(Cl)C=C1
+The SMILES answer is: ClC1=CC=C(C=C1)C(=O)\C=C\C1=CC=CO1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=CO1, second reactant: CC(=O)C1=CC=C(C)C=C1
+The SMILES answer is: CC1=CC=C(C=C1)C(=O)C=CC1=CC=CO1
+
+"
+"Predict the product for the following reaction: First reactant: CN1CCC(=O)CC1, second reactant: [H]C(=O)C1=CC=CC=C1
+The SMILES answer is: CN1C\C(=C/C2=CC=CC=C2)C(=O)\C(C1)=C\C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=CCCC1=CC=CC=C1, second reactant: O=CCCC1=CC=CC=C1
+The SMILES answer is: O=CC(CC1=CC=CC=C1)=CCCC1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=CS1, second reactant: ClC1=CC=C(C=O)C=C1
+The SMILES answer is: ClC1=CC=C(\C=C\C(=O)C2=CC=CS2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=CS1, second reactant: COC1=CC=C(C=O)C=C1
+The SMILES answer is: COC1=CC=C(\C=C\C(=O)C2=CC=CS2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=C1CSC(=O)N1, second reactant: ClC1=CC=C(C=O)C=C1
+The SMILES answer is: ClC1=CC=C(C=C2SC(=O)NC2=O)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=C(Br)S1, second reactant: CN(C)C1=CC=C(C=O)C=C1
+The SMILES answer is: CN(C)C1=CC=C(\C=C\C(=O)C2=CC=C(Br)S2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CNC2=C1C=CC=C2, second reactant: COC1=CC=C(C=C1)C(C)=O
+The SMILES answer is: COC1=CC=C(C=C1)C(=O)\C=C\C1=CNC2=CC=CC=C12
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC2=C(O1)C=CC=C2, second reactant: COC1=CC(C=O)=CC=C1O
+The SMILES answer is: COC1=C(O)C=CC(\C=C\C(=O)C2=CC3=C(O2)C=CC=C3)=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C(C)(C)C, second reactant: O=CC1=CC=C2OCOC2=C1
+The SMILES answer is: [H]\C(=C(\[H])C1=CC=C2OCOC2=C1)C(=O)C(C)(C)C
+
+"
+"Predict the product for the following reaction: First reactant: CCCCCCCC=O, second reactant: CCCCCCCC=O
+The SMILES answer is: CCCCCCC\C=C(/CCCCCC)C=O
+
+"
+"Predict the product for the following reaction: First reactant: O=C1CCCCC1, second reactant: O=CC1=CC(=CC=C1)N(=O)=O
+The SMILES answer is: O=C1C(CCCC1=CC1=CC=CC(=C1)N(=O)=O)=CC1=CC=CC(=C1)N(=O)=O
+
+"
+"Predict the product for the following reaction: First reactant: O=C1CCCCC1, second reactant: O=CC1=CC=C(C=C1)N(=O)=O
+The SMILES answer is: O=C1C(CCCC1=CC1=CC=C(C=C1)N(=O)=O)=CC1=CC=C(C=C1)N(=O)=O
+
+"
+"Predict the product for the following reaction: First reactant: O=C1CCCCC1, second reactant: O=CC1=CC=CC=C1N(=O)=O
+The SMILES answer is: O=C1C(CCCC1=CC1=C(C=CC=C1)N(=O)=O)=CC1=C(C=CC=C1)N(=O)=O
+
+"
+"Predict the product for the following reaction: First reactant: FC1=CC=C(C=O)C=C1, second reactant: COC1=CC=C(C(C)=O)C(OC)=C1
+The SMILES answer is: COC1=CC(OC)=C(C=C1)C(=O)\C=C\C1=CC=C(F)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: ClC1=CC=C(C=O)C=C1, second reactant: COC1=CC=C(C=C1)C(C)=O
+The SMILES answer is: COC1=CC=C(C=C1)C(=O)C=CC1=CC=C(Cl)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=C(Br)C=C1, second reactant: [H]C(=O)C1=CC=CC=C1
+The SMILES answer is: BrC1=CC=C(C=C1)C(=O)\C=C\C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=C(Br)C=C1, second reactant: COC1=CC=C(C=O)C=C1
+The SMILES answer is: COC1=CC=C(\C=C\C(=O)C2=CC=C(Br)C=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=C\C=C\C1=CC=CC=C1, second reactant: CC(=O)C1=C(O)C=CC=C1
+The SMILES answer is: OC1=CC=CC=C1C(=O)\C=C\C=C\C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: BrC1=CC(C=O)=CC=C1, second reactant: CC(=O)C1=C(O)C=CC=C1
+The SMILES answer is: OC1=C(C=CC=C1)C(=O)\C=C\C1=CC=CC(Br)=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=C(O)C=CC=C1, second reactant: BrC1=CC=CC=C1C=O
+The SMILES answer is: OC1=CC=CC=C1C(=O)\C=C\C1=C(Br)C=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=C(C=C1)N(=O)=O, second reactant: O=C1CCCC1
+The SMILES answer is: O=C1C(CCC1=CC1=CC=C(C=C1)N(=O)=O)=CC1=CC=C(C=C1)N(=O)=O
+
+"
+"Predict the product for the following reaction: First reactant: [H]C(=O)C1=CC=CC=C1, second reactant: CC(=O)C1=CC=C(N)C=C1
+The SMILES answer is: NC1=CC=C(C=C1)C(=O)C=CC1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: [H]C(=O)C1=CC=CC=C1, second reactant: CC(=O)C1=CC=C(C=C1)N(=O)=O
+The SMILES answer is: O=C(\C=C\C1=CC=CC=C1)C1=CC=C(C=C1)N(=O)=O
+
+"
+"Predict the product for the following reaction: First reactant: [H]C(=O)C1=CC=CC=C1, second reactant: CC(=O)C1=CC=C(O)C=C1
+The SMILES answer is: OC1=CC=C(C=C1)C(=O)C=CC1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: OC1=CC=C(C=O)C=C1, second reactant: O=C1CCCC1
+The SMILES answer is: OC1=CC=C(C=C2CCC(=CC3=CC=C(O)C=C3)C2=O)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC=C(C=O)C=C1, second reactant: CC(=O)C1=CC=CC(=C1)N(=O)=O
+The SMILES answer is: COC1=CC=C(\C=C\C(=O)C2=CC(=CC=C2)N(=O)=O)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC=C(C=O)C=C1, second reactant: CC(=O)C1=CC=C(O)C=C1
+The SMILES answer is: COC1=CC=C(C=CC(=O)C2=CC=C(O)C=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: OC1=C(C=O)C=CC=C1, second reactant: CC(=O)C1=CC=CC=C1
+The SMILES answer is: OC1=C(C=CC(=O)C2=CC=CC=C2)C=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC=CC(C=O)=C1O, second reactant: CC(=O)C1=CC=CC=C1
+The SMILES answer is: COC1=CC=CC(\C=C\C(=O)C2=CC=CC=C2)=C1O
+
+"
+"Predict the product for the following reaction: First reactant: COC1=C(OC)C=C(C=O)C=C1, second reactant: COC1=CC=C(C=C1)C(C)=O
+The SMILES answer is: COC1=CC=C(C=C1)C(=O)\C=C\C1=CC(OC)=C(OC)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CCC=O, second reactant: CCC=O
+The SMILES answer is: CC\C=C(/C)C=O
+
+"
+"Predict the product for the following reaction: First reactant: BrC1=CC=C(C=O)C=C1, second reactant: CC(=O)C1=CC=CC=C1
+The SMILES answer is: BrC1=CC=C(\C=C\C(=O)C2=CC=CC=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=C(C)C=C1, second reactant: O=CC1=CC=CC=C1N(=O)=O
+The SMILES answer is: CC1=CC=C(C=C1)C(=O)\C=C\C1=C(C=CC=C1)N(=O)=O
+
+"
+"Predict the product for the following reaction: First reactant: CN(C)C1=CC=C(C=O)C=C1, second reactant: CN(C)C1=CC=C(C=C1)C(C)=O
+The SMILES answer is: CN(C)C1=CC=C(\C=C\C(=O)C2=CC=C(C=C2)N(C)C)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC=C(C=O)C(OC)=C1, second reactant: COC1=C(OC)C=C(C=C1)C(C)=O
+The SMILES answer is: COC1=CC(OC)=C(\C=C\C(=O)C2=CC(OC)=C(OC)C=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: OC(=O)CC(O)=O, second reactant: CC(C)CC=O
+The SMILES answer is: CC(C)\C=C\CC(O)=O
+
+"
+"Predict the product for the following reaction: First reactant: CC(C)CC=O, second reactant: CC(C)CC=O
+The SMILES answer is: CC(C)CC=C(C=O)C(C)C
+
+"
+"Predict the product for the following reaction: First reactant: O=C1CSC(=O)N1, second reactant: CC1=CC=C(C=O)C=C1
+The SMILES answer is: CC1=CC=C(C=C2SC(=O)NC2=O)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=C1CSC(=S)N1, second reactant: CC1=CC=C(C=O)C=C1
+The SMILES answer is: CC1=CC=C(C=C2SC(=S)NC2=O)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC(O[Si](C)(C)C)=C(C)C, second reactant: COC1=CC=C(C=O)C=C1
+The SMILES answer is: COC(=O)C(C)(C)C(O)C1=CC=C(OC)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=CN1, second reactant: CC(=O)C1=CC=CC=C1
+The SMILES answer is: O=C(\C=C\C1=CC=CN1)C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=CS1, second reactant: CC(=O)C1=CC=C(Cl)C=C1
+The SMILES answer is: ClC1=CC=C(C=C1)C(=O)\C=C\C1=CC=CS1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=CS1, second reactant: O=C1N(CC2=CC=CC=C2)C2=CC=CC=C2C1=O
+The SMILES answer is: OC1(CC(=O)C2=CC=CS2)C(=O)N(CC2=CC=CC=C2)C2=C1C=CC=C2
+
+"
+"Predict the product for the following reaction: First reactant: O=C1CSC(=S)N1, second reactant: ClC1=CC=C(C=O)C=C1
+The SMILES answer is: ClC1=CC=C(C=C2SC(=S)NC2=O)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=C(Cl)S1, second reactant: COC1=CC=C(C=O)C=C1
+The SMILES answer is: COC1=CC=C(\C=C\C(=O)C2=CC=C(Cl)S2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=C\C=C\C1=CC=CC=C1, second reactant: O=C1CCCCC1
+The SMILES answer is: O=C1\C(CCC\C1=C/C=C/C1=CC=CC=C1)=C\C=C\C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC1=CC=C(C=O)C=C1, second reactant: CC(=O)C1=C(O)C=CC=C1
+The SMILES answer is: CC1=CC=C(\C=C\C(=O)C2=C(O)C=CC=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC1=CC=C(C=O)C=C1, second reactant: CC(C)=O
+The SMILES answer is: CC(=O)\C=C\C1=CC=C(C)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=CC2=C1C=CC=C2, second reactant: CC(=O)C1=C(O)C=CC=C1
+The SMILES answer is: OC1=C(C=CC=C1)C(=O)\C=C\C1=CC=CC2=C1C=CC=C2
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=C(O)C=CC=C1, second reactant: CN(C)C1=CC=C(C=O)C=C1
+The SMILES answer is: CN(C)C1=CC=C(\C=C\C(=O)C2=CC=CC=C2O)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=C(C=C1)N(=O)=O, second reactant: CC(=O)C1=CC=C(C=C1)N(=O)=O
+The SMILES answer is: O=C(\C=C\C1=CC=C(C=C1)N(=O)=O)C1=CC=C(C=C1)N(=O)=O
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=C(C=C1)N(=O)=O, second reactant: COC1=CC=C(C=C1)C(C)=O
+The SMILES answer is: COC1=CC=C(C=C1)C(=O)\C=C\C1=CC=C(C=C1)N(=O)=O
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=C(O)C=C(C)OC1=O, second reactant: [H]C(=O)C1=CC=CC=C1
+The SMILES answer is: CC1=CC(O)=C(C(=O)C=CC2=CC=CC=C2)C(=O)O1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=C(Br)C=CC=C1, second reactant: [H]C(=O)C1=CC=CC=C1
+The SMILES answer is: BrC1=CC=CC=C1C(=O)\C=C\C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC=C(C=O)C=C1, second reactant: CC(=O)C1=CC=C(C=C1)N(=O)=O
+The SMILES answer is: COC1=CC=C(\C=C\C(=O)C2=CC=C(C=C2)N(=O)=O)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=C(C=C1)C#N, second reactant: CC(C)=O
+The SMILES answer is: CC(=O)\C=C\C1=CC=C(C=C1)C#N
+
+"
+"Predict the product for the following reaction: First reactant: ClC1=CC=C(C=O)C=C1, second reactant: CC(=O)C1=C(N)C=CC=C1
+The SMILES answer is: NC1=C(C=CC=C1)C(=O)\C=C\C1=CC=C(Cl)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC(O)=C(C(C)=O)C(OC)=C1OC, second reactant: COC1=CC=C(C=O)C=C1
+The SMILES answer is: COC1=CC=C(C=CC(=O)C2=C(OC)C(OC)=C(OC)C=C2O)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=CS1, second reactant: CC(=O)C1=CC=C(N)C=C1
+The SMILES answer is: NC1=CC=C(C=C1)C(=O)\C=C\C1=CC=CS1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC(C=O)=CC(OC)=C1, second reactant: COC1=CC=C(C=C1)C(C)=O
+The SMILES answer is: COC1=CC=C(C=C1)C(=O)\C=C\C1=CC(OC)=CC(OC)=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=C(Cl)C=C1, second reactant: BrC1=CC=C(C=O)C=C1
+The SMILES answer is: ClC1=CC=C(C=C1)C(=O)\C=C\C1=CC=C(Br)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=NC=C1, second reactant: COC1=CC=C(C=O)C=C1
+The SMILES answer is: COC1=CC=C(\C=C\C(=O)C2=CC=NC=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=C(Cl)C=C1, second reactant: COC1=CC=C(C=O)C=C1
+The SMILES answer is: COC1=CC=C(\C=C\C(=O)C2=CC=C(Cl)C=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=C(Cl)C=C1, second reactant: OC1=CC=C(C=O)C=C1
+The SMILES answer is: OC1=CC=C(\C=C\C(=O)C2=CC=C(Cl)C=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC(O[Si](C)(C)C)=C(C)C, second reactant: CC1=CC=C(C=O)C=C1
+The SMILES answer is: COC(=O)C(C)(C)C(O)C1=CC=C(C)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC(O[Si](C)(C)C)=C(C)C, second reactant: ClC1=CC=C(C=O)C=C1
+The SMILES answer is: COC(=O)C(C)(C)C(O)C1=CC=C(Cl)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=C(N)C=CC=C1, second reactant: [H]C(=O)C1=CC=CC=C1
+The SMILES answer is: NC1=CC=CC=C1C(=O)C=CC1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: ClC1=CC=C(C=O)C=C1, second reactant: CC(=O)C1=CC=C(Cl)C=C1
+The SMILES answer is: ClC1=CC=C(\C=C\C(=O)C2=CC=C(Cl)C=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: OC1=CC=C(C=O)C=C1, second reactant: COC1=CC=C(C=C1)C(C)=O
+The SMILES answer is: COC1=CC=C(C=C1)C(=O)\C=C\C1=CC=C(O)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=CO1, second reactant: CC(=O)C1=CC=C(O)C=C1
+The SMILES answer is: OC1=CC=C(C=C1)C(=O)C=CC1=CC=CO1
+
+"
+"Predict the product for the following reaction: First reactant: O=C1CSC(=O)N1, second reactant: O=CC1=CC=C(C=C1)N(=O)=O
+The SMILES answer is: O=C1NC(=O)\C(S1)=C\C1=CC=C(C=C1)N(=O)=O
+
+"
+"Predict the product for the following reaction: First reactant: O=C\C=C\C1=CC=CC=C1, second reactant: CC(=O)C1=CC=C(Cl)C=C1
+The SMILES answer is: ClC1=CC=C(C=C1)C(=O)\C=C\C=C\C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=C1CCCC2=C1C=CC=C2, second reactant: CCCCO
+The SMILES answer is: CCCCC1CCC2=C(C=CC=C2)C1=O
+
+"
+"Predict the product for the following reaction: First reactant: [H]C(=O)C1=CC=CC=C1, second reactant: CC(=O)C1=CC=CC(Cl)=C1
+The SMILES answer is: ClC1=CC=CC(=C1)C(=O)C=CC1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=C(C)C=C1, second reactant: CN(C)C1=CC=C(C=O)C=C1
+The SMILES answer is: CN(C)C1=CC=C(C=CC(=O)C2=CC=C(C)C=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: FC1=CC=C(C=O)C=C1, second reactant: CC(=O)C1=CC=C(Cl)C=C1
+The SMILES answer is: FC1=CC=C(\C=C\C(=O)C2=CC=C(Cl)C=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=C(Cl)C=C1, second reactant: COC1=CC(C=O)=CC(OC)=C1OC
+The SMILES answer is: COC1=CC(\C=C\C(=O)C2=CC=C(Cl)C=C2)=CC(OC)=C1OC
+
+"
+"Predict the product for the following reaction: First reactant: O=C1CCCCC1, second reactant: ClC1=CC=CC=C1C=O
+The SMILES answer is: [H][C@@]1(CCCCC1=O)[C@H](O)C1=C(Cl)C=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=CS1, second reactant: CC(=O)C1=C(O)C=CC=C1
+The SMILES answer is: OC1=CC=CC=C1C(=O)\C=C\C1=CC=CS1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC(C=O)=C(OC)C=C1, second reactant: CC(=O)C1=CC=CC=C1
+The SMILES answer is: COC1=CC(\C=C\C(=O)C2=CC=CC=C2)=C(OC)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: FC(F)(F)C1=CC=C(C=O)C=C1, second reactant: O=C1CCCCC1
+The SMILES answer is: [H][C@@]1(CCCCC1=O)[C@H](O)C1=CC=C(C=C1)C(F)(F)F
+
+"
+"Predict the product for the following reaction: First reactant: FC1=CC=C(C=O)C=C1, second reactant: COC1=CC=C(C=C1)C(C)=O
+The SMILES answer is: COC1=CC=C(C=C1)C(=O)C=CC1=CC=C(F)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: C=O, second reactant: OC1=COC(COC2CCCCO2)=CC1=O
+The SMILES answer is: OCC1=C(O)C(=O)C=C(COC2CCCCO2)O1
+
+"
+"Predict the product for the following reaction: First reactant: OC(=O)CN1C(=O)CSC1=S, second reactant: COC1=CC=C(C=O)C=C1
+The SMILES answer is: COC1=CC=C(\C=C2/SC(=S)N(CC(O)=O)C2=O)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CN(=O)=O, second reactant: BrC1=CC=CC=C1C=O
+The SMILES answer is: O[C@H](CN(=O)=O)C1=C(Br)C=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: CN(C)C1=CC=C(C=O)C=C1, second reactant: CC(=O)C1=CC=C(C=C1)N(=O)=O
+The SMILES answer is: CN(C)C1=CC=C(C=CC(=O)C2=CC=C(C=C2)N(=O)=O)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=C(C=C1)N(=O)=O, second reactant: CC(=O)C1=CC=C(N)C=C1
+The SMILES answer is: NC1=CC=C(C=C1)C(=O)C=CC1=CC=C(C=C1)N(=O)=O
+
+"
+"Predict the product for the following reaction: First reactant: O=C1CSC(=S)N1, second reactant: ClC1=CC=C(C=O)C(Cl)=C1
+The SMILES answer is: ClC1=CC(Cl)=C(\C=C2/SC(=S)NC2=O)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: OC(=O)CN1C(=O)CSC1=S, second reactant: FC1=CC=C(C=O)C=C1
+The SMILES answer is: OC(=O)CN1C(=S)S\C(=C/C2=CC=C(F)C=C2)C1=O
+
+"
+"Predict the product for the following reaction: First reactant: OC(=O)CN1C(=O)CSC1=S, second reactant: [H]C(=O)C1=CC=CC=C1
+The SMILES answer is: OC(=O)CN1C(=S)S\C(=C/C2=CC=CC=C2)C1=O
+
+"
+"Predict the product for the following reaction: First reactant: O=C\C=C\C1=CC=CC=C1, second reactant: CC(=O)C1=CC=C(F)C=C1
+The SMILES answer is: FC1=CC=C(C=C1)C(=O)\C=C\C=C\C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: BrC1=CC=C(C=O)C=C1, second reactant: NCCN
+The SMILES answer is: BrC1=CC=C(C=C1)C1=NC=CN1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=CO1, second reactant: CC(=O)C1=CC=CC(O)=C1
+The SMILES answer is: OC1=CC(=CC=C1)C(=O)C=CC1=CC=CO1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=CC=N1, second reactant: COC1=CC(C=O)=CC(OC)=C1OC
+The SMILES answer is: COC1=CC(C=CC(=O)C2=CC=CC=N2)=CC(OC)=C1OC
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=C(OCC#C)C=C1, second reactant: CC1=CC=C(C=O)C=C1
+The SMILES answer is: CC1=CC=C(\C=C\C(=O)C2=CC=C(OCC#C)C=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC1=CC=C(C=O)C=C1, second reactant: CC(=O)C1=C(N)C=CC=C1
+The SMILES answer is: CC1=CC=C(\C=C\C(=O)C2=CC=CC=C2N)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: OC(=O)CN1C(=O)CSC1=S, second reactant: ClC1=CC=C(C=O)C=C1
+The SMILES answer is: OC(=O)CN1C(=S)S\C(=C/C2=CC=C(Cl)C=C2)C1=O
+
+"
+"Predict the product for the following reaction: First reactant: FC1=CC=C(C=O)C=C1, second reactant: O=C1CCC2=C1C=CC=C2
+The SMILES answer is: FC1=CC=C(\C=C2/CC3=C(C=CC=C3)C2=O)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: OCC1=CC=C(F)C=C1, second reactant: CC(=O)C1=CC=CC=C1
+The SMILES answer is: FC1=CC=C(C=CC(=O)C2=CC=CC=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=CC=N1, second reactant: CC(=O)C1=CC=C(Cl)C=C1
+The SMILES answer is: ClC1=CC=C(C=C1)C(=O)\C=C\C1=CC=CC=N1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=CO1, second reactant: [H][C@@]12CC[C@H](C(C)=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC=C2C[C@@H](O)CC[C@]12C
+The SMILES answer is: [H][C@@]12CC[C@H](C(=O)\C=C\C3=CC=CO3)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC=C2C[C@@H](O)CC[C@]12C
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=CO1, second reactant: CC(=O)C1=C(O)C=CC=C1
+The SMILES answer is: OC1=C(C=CC=C1)C(=O)\C=C\C1=CC=CO1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=CO1, second reactant: CC(=O)C1=CC=CC=C1
+The SMILES answer is: O=C(C=CC1=CC=CO1)C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=CO1, second reactant: COC1=CC=C(C=C1)C(C)=O
+The SMILES answer is: COC1=CC=C(C=C1)C(=O)\C=C\C1=CC=CO1
+
+"
+"Predict the product for the following reaction: First reactant: N#CCC1=CC=CS1, second reactant: FC1=CC=C(C=O)C=C1
+The SMILES answer is: FC1=CC=C(\C=C(/C#N)C2=CC=CS2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=C(O)C=C(C=O)C=C1, second reactant: CC(=O)C1=C(O)C=C(O)C=C1
+The SMILES answer is: COC1=C(O)C=C(\C=C\C(=O)C2=C(O)C=C(O)C=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=CO1, second reactant: [H]C(=O)C1=CC=CC=C1
+The SMILES answer is: O=C(\C=C\C1=CC=CC=C1)C1=CC=CO1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=CS1, second reactant: FC1=CC=C(C=O)C=C1
+The SMILES answer is: FC1=CC=C(\C=C\C(=O)C2=CC=CS2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=C1CSC(=S)N1, second reactant: O=CC1=CC(=CC=C1)N(=O)=O
+The SMILES answer is: O=C1NC(=S)SC1=CC1=CC(=CC=C1)N(=O)=O
+
+"
+"Predict the product for the following reaction: First reactant: O=C1CSC(=S)N1, second reactant: ClC1=CC=C(C=O)C(Cl)=C1
+The SMILES answer is: ClC1=CC(Cl)=C(C=C2SC(=S)NC2=O)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CNC2=C1C=CC=C2, second reactant: CC(=O)C1=CC=CC=C1
+The SMILES answer is: O=C(\C=C\C1=CNC2=CC=CC=C12)C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=C1COC2=C1C=CC=C2, second reactant: [H]C(=O)C1=CC=CC=C1
+The SMILES answer is: O=C1\C(OC2=CC=CC=C12)=C\C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=C1COC2=C1C=CC=C2, second reactant: COC1=CC=C(C=O)C=C1
+The SMILES answer is: COC1=CC=C(\C=C2/OC3=C(C=CC=C3)C2=O)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: OC1=CC=C2C(=O)COC2=C1, second reactant: OC1=CC=C(C=O)C=C1
+The SMILES answer is: OC1=CC=C(\C=C2/OC3=C(C=CC(O)=C3)C2=O)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: OC1=CC=C2C(=O)COC2=C1, second reactant: COC1=CC=C(C=O)C=C1
+The SMILES answer is: COC1=CC=C(\C=C2/OC3=C(C=CC(O)=C3)C2=O)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: OC1=CC=C2C(=O)COC2=C1, second reactant: COC1=C(OC)C=C(C=O)C=C1
+The SMILES answer is: COC1=CC=C(\C=C2/OC3=C(C=CC(O)=C3)C2=O)C=C1OC
+
+"
+"Predict the product for the following reaction: First reactant: OC1=CC=C2C(=O)CCOC2=C1, second reactant: COC1=CC(C=O)=CC=C1O
+The SMILES answer is: COC1=C(O)C=CC(\C=C2/COC3=C(C=CC(O)=C3)C2=O)=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC(OC)=C(C(C)=O)C(O)=C1, second reactant: O=CC1=CC=C2OCOC2=C1
+The SMILES answer is: COC1=CC(O)=C(C(=O)\C=C\C2=CC3=C(OCO3)C=C2)C(OC)=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=C2OCOC2=C1, second reactant: CC(=O)C1=CC=C(Cl)C=C1
+The SMILES answer is: ClC1=CC=C(C=C1)C(=O)\C=C\C1=CC=C2OCOC2=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=C2OCOC2=C1, second reactant: COC1=C(OC)C=C(C=C1)C(C)=O
+The SMILES answer is: COC1=C(OC)C=C(C=C1)C(=O)\C=C\C1=CC=C2OCOC2=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=NN(N=C1)C1=CC=CC=C1, second reactant: CC(=O)C1=CC=CC=C1
+The SMILES answer is: [H]\C(=C(\[H])C1=NN(N=C1)C1=CC=CC=C1)C(=O)C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC(OC)=C2C(=O)COC2=C1, second reactant: OC1=C(C=O)C=CC=C1
+The SMILES answer is: COC1=CC2=C(C(=O)\C(O2)=C\C2=CC=CC=C2O)C(OC)=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=CN1, second reactant: COC1=CC=C(C=O)C=C1
+The SMILES answer is: COC1=CC=C(\C=C\C(=O)C2=CC=CN2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=C1CCCCC1, second reactant: CC1=CC=C(C=O)C=C1
+The SMILES answer is: CC1=CC=C(\C=C2/CCCCC2=O)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=C1CCCCC1, second reactant: O=CC=CC1=CC=CC=C1
+The SMILES answer is: O=C1C(CCCC1=CC=CC1=CC=CC=C1)=CC=CC1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC1=CC=C(C=O)C=C1, second reactant: CC(=O)C1=CC=C(Cl)C=C1
+The SMILES answer is: CC1=CC=C(\C=C\C(=O)C2=CC=C(Cl)C=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=C(C=O)C=C1, second reactant: CC(=O)C1=CC=CC=C1
+The SMILES answer is: O=C(C=CC1=CC=C(C=CC(=O)C2=CC=CC=C2)C=C1)C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: ClC1=CC=CC=C1C=O, second reactant: CC(=O)C1=CC=C(Cl)C=C1
+The SMILES answer is: ClC1=CC=C(C=C1)C(=O)\C=C\C1=CC=CC=C1Cl
+
+"
+"Predict the product for the following reaction: First reactant: ClC1=CC=CC=C1C=O, second reactant: CC(C)=O
+The SMILES answer is: CC(=O)C=CC1=CC=CC=C1Cl
+
+"
+"Predict the product for the following reaction: First reactant: N#CCC1=CC=CC=C1, second reactant: O=CC1=CC=C(C=C1)C#N
+The SMILES answer is: N#C\C(=C/C1=CC=C(C=C1)C#N)C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=C(F)C=C1, second reactant: [H]C(=O)C1=CC=CC=C1
+The SMILES answer is: FC1=CC=C(C=C1)C(=O)\C=C\C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=C(Br)C=C1, second reactant: [H]C(=O)C1=CC=CC=C1
+The SMILES answer is: BrC1=CC=C(C=C1)C(=O)C=CC1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=C(Br)C=C1, second reactant: O=CC1=CC2=CC=CC=C2C=C1
+The SMILES answer is: BrC1=CC=C(C=C1)C(=O)\C=C\C1=CC=C2C=CC=CC2=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=CC2=C1C=CC=C2, second reactant: CC(=O)C1=CC=CC=C1
+The SMILES answer is: O=C(\C=C\C1=CC=CC2=C1C=CC=C2)C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=C(O)C=CC=C1, second reactant: COC1=CC=C(C=O)C=C1
+The SMILES answer is: COC1=CC=C(C=CC(=O)C2=CC=CC=C2O)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=C(O)C=CC=C1, second reactant: OC1=C(C=O)C=CC=C1
+The SMILES answer is: OC1=CC=CC=C1C(=O)\C=C\C1=C(O)C=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=C(O)C=CC=C1, second reactant: COC1=C(OC)C=C(C=O)C=C1
+The SMILES answer is: COC1=C(OC)C=C(C=CC(=O)C2=CC=CC=C2O)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=C(O)C=CC=C1, second reactant: COC1=CC(C=O)=CC=C1
+The SMILES answer is: COC1=CC=CC(C=CC(=O)C2=CC=CC=C2O)=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=C(O)C=CC=C1, second reactant: COC1=CC=CC=C1C=O
+The SMILES answer is: COC1=C(\C=C\C(=O)C2=CC=CC=C2O)C=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=C(O)C=CC=C1, second reactant: CN(C)C1=CC=C(C=O)C=C1
+The SMILES answer is: CN(C)C1=CC=C(C=CC(=O)C2=CC=CC=C2O)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC=C(C(C)=O)C(O)=C1, second reactant: O=CC1=CC(=CC=C1)N(=O)=O
+The SMILES answer is: COC1=CC(O)=C(C=C1)C(=O)\C=C\C1=CC(=CC=C1)N(=O)=O
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC(=CC=C1)N(=O)=O, second reactant: CC(=O)C1=CC=CC=C1
+The SMILES answer is: O=C(\C=C\C1=CC=CC(=C1)N(=O)=O)C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC(=CC=C1)N(=O)=O, second reactant: CC(=O)C1=CC=C(C=C1)N(=O)=O
+The SMILES answer is: O=C(\C=C\C1=CC(=CC=C1)N(=O)=O)C1=CC=C(C=C1)N(=O)=O
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC(=CC=C1)N(=O)=O, second reactant: COC1=CC=C(C=C1)C(C)=O
+The SMILES answer is: COC1=CC=C(C=C1)C(=O)\C=C\C1=CC(=CC=C1)N(=O)=O
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=C(C=C1)N(=O)=O, second reactant: CC(=O)C1=CC=CC=C1
+The SMILES answer is: O=C(\C=C\C1=CC=C(C=C1)N(=O)=O)C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC=C(C(C)=O)C(O)=C1, second reactant: COC1=CC(C=O)=CC(OC)=C1OC
+The SMILES answer is: COC1=CC=C(C(=O)C=CC2=CC(OC)=C(OC)C(OC)=C2)C(O)=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC(C=O)=CC(OC)=C1OC, second reactant: CC(=O)C1=CC=CC=C1
+The SMILES answer is: COC1=CC(\C=C\C(=O)C2=CC=CC=C2)=CC(OC)=C1OC
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC=CC=C1C(C)=O, second reactant: [H]C(=O)C1=CC=CC=C1
+The SMILES answer is: COC1=C(C=CC=C1)C(=O)\C=C\C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC(OC)=C(C(C)=O)C(O)=C1, second reactant: [H]C(=O)C1=CC=CC=C1
+The SMILES answer is: COC1=CC(O)=C(C(=O)C=CC2=CC=CC=C2)C(OC)=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC(C)=CC=C1O, second reactant: [H]C(=O)C1=CC=CC=C1
+The SMILES answer is: CC1=CC2=C(OC(CC2=O)C2=CC=CC=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=C(O)C=CC(Cl)=C1, second reactant: [H]C(=O)C1=CC=CC=C1
+The SMILES answer is: OC1=C(C=C(Cl)C=C1)C(=O)C=CC1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=CC=C1Cl, second reactant: [H]C(=O)C1=CC=CC=C1
+The SMILES answer is: ClC1=C(C=CC=C1)C(=O)\C=C\C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=C(O)C=CC2=CC=CC=C12, second reactant: [H]C(=O)C1=CC=CC=C1
+The SMILES answer is: OC1=C(C(=O)\C=C\C2=CC=CC=C2)C2=C(C=CC=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: [H][C@@]12CC[C@H](C(C)=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC=C2C[C@@H](O)CC[C@]12C, second reactant: [H]C(=O)C1=CC=CC=C1
+The SMILES answer is: [H][C@@]12CC[C@H](C(=O)\C=C\C3=CC=CC=C3)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC=C2C[C@@H](O)CC[C@]12C
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)NC1=CC=C(O)C(=C1)C(C)=O, second reactant: [H]C(=O)C1=CC=CC=C1
+The SMILES answer is: CC(=O)NC1=CC=C(O)C(=C1)C(=O)C=CC1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: [H]C(=O)C1=CC=CC=C1, second reactant: CC(O)=O
+The SMILES answer is: OC(=O)\C=C\C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: [H]C(=O)C1=CC=CC=C1, second reactant: CCC=O
+The SMILES answer is: CC(C=O)=CC1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: [H]C(=O)C1=CC=CC=C1, second reactant: CCOC(C)=O
+The SMILES answer is: CCOC(=O)\C=C\C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: [H]C(=O)C1=CC=CC=C1, second reactant: CC(=O)C1=CC(Br)=CC=C1
+The SMILES answer is: BrC1=CC(=CC=C1)C(=O)\C=C\C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: [H]C(=O)C1=CC=CC=C1, second reactant: COC1=CC=C(C(C)=O)C(OC)=C1
+The SMILES answer is: COC1=CC(OC)=C(C=C1)C(=O)C=CC1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: [H]C(=O)C1=CC=CC=C1, second reactant: CN(C)C1=CC=C(C=C1)C(C)=O
+The SMILES answer is: CN(C)C1=CC=C(C=C1)C(=O)C=CC1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: [H]C(=O)C1=CC=CC=C1, second reactant: CCC(C)=O
+The SMILES answer is: CC(=O)C(C)=CC1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: [H]C(=O)C1=CC=CC=C1, second reactant: CC(=O)C1=CC2=C(C=CC=C2)C=C1
+The SMILES answer is: O=C(\C=C\C1=CC=CC=C1)C1=CC=C2C=CC=CC2=C1
+
+"
+"Predict the product for the following reaction: First reactant: OC1=CC=C(C=O)C=C1, second reactant: COC1=CC=C(C(C)=O)C(OC)=C1
+The SMILES answer is: COC1=CC(OC)=C(C=C1)C(=O)\C=C\C1=CC=C(O)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: OC1=CC=C(C=O)C=C1, second reactant: CC(=O)C1=CC=CC=C1
+The SMILES answer is: OC1=CC=C(\C=C\C(=O)C2=CC=CC=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: OC1=CC=C(C=O)C=C1, second reactant: CC(C)=O
+The SMILES answer is: CC(=O)C=CC1=CC=C(O)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: OC1=CC=C(C=O)C=C1, second reactant: COC1=CC=C(C=C1)C(C)=O
+The SMILES answer is: COC1=CC=C(C=C1)C(=O)C=CC1=CC=C(O)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: OC1=CC=C(C=O)C=C1, second reactant: CC(=O)C1=CC=C(O)C=C1
+The SMILES answer is: OC1=CC=C(\C=C\C(=O)C2=CC=C(O)C=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: OC1=CC=C(C=O)C=C1, second reactant: CC(=O)C1=CC=C(O)C=C1
+The SMILES answer is: OC1=CC=C(C=CC(=O)C2=CC=C(O)C=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=C(I)C=C1, second reactant: COC1=CC=C(C=O)C=C1
+The SMILES answer is: COC1=CC=C(\C=C\C(=O)C2=CC=C(I)C=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC=C(C=O)C=C1, second reactant: CC(=O)C1=CC=C(N)C=C1
+The SMILES answer is: COC1=CC=C(C=CC(=O)C2=CC=C(N)C=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC=C(C=O)C=C1, second reactant: CCOC(C)=O
+The SMILES answer is: CCOC(=O)C=CC1=CC=C(OC)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC=C(C=O)C=C1, second reactant: OC(=O)CC#N
+The SMILES answer is: COC1=CC=C(\C=C(/C#N)C(O)=O)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC=C(C=O)C=C1, second reactant: O=C1CCC2=C1C=CC=C2
+The SMILES answer is: COC1=CC=C(\C=C2/CC3=C(C=CC=C3)C2=O)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC=C(C=O)C=C1, second reactant: COC1=CC=C(C(C)=O)C(OC)=C1
+The SMILES answer is: COC1=CC=C(\C=C\C(=O)C2=CC=C(OC)C=C2OC)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC=C(C=O)C=C1, second reactant: CC(=O)C1=CC=C(C)C=C1
+The SMILES answer is: COC1=CC=C(\C=C\C(=O)C2=CC=C(C)C=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC=C(C=O)C=C1, second reactant: CC(=O)\C=C\C1=CC=CC=C1
+The SMILES answer is: COC1=CC=C(\C=C\C(=O)\C=C\C2=CC=CC=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC=C(C=O)C=C1, second reactant: COC1=C(OC)C=C(C=C1)C(C)=O
+The SMILES answer is: COC1=CC=C(\C=C\C(=O)C2=CC(OC)=C(OC)C=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: OC(=O)C1=CC=C(C=O)C=C1, second reactant: CC(=O)C1=CC=CC=C1
+The SMILES answer is: OC(=O)C1=CC=C(\C=C\C(=O)C2=CC=CC=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=C(O)C=C(O)C=C1, second reactant: COC1=CC(C=O)=CC=C1O
+The SMILES answer is: COC1=C(O)C=CC(\C=C\C(=O)C2=C(O)C=C(O)C=C2)=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC(C=O)=CC=C1O, second reactant: O=C1CCCC1
+The SMILES answer is: COC1=C(O)C=CC(C=C2CCC(=CC3=CC(OC)=C(O)C=C3)C2=O)=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=C(OC)C=C(C=O)C=C1, second reactant: CC(C)=O
+The SMILES answer is: COC1=CC=C(C=CC(C)=O)C=C1OC
+
+"
+"Predict the product for the following reaction: First reactant: COC1=C(OC)C=C(C=O)C=C1, second reactant: COC1=CC=C2C(=O)CCCC2=C1
+The SMILES answer is: COC1=CC=C2C(CC\C(=C/C3=CC=C(OC)C(OC)=C3)C2=O)=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC(OC)=C(C(C)=O)C(O)=C1, second reactant: ClC1=CC(C=O)=CC=C1
+The SMILES answer is: COC1=CC(O)=C(C(=O)\C=C\C2=CC=CC(Cl)=C2)C(OC)=C1
+
+"
+"Predict the product for the following reaction: First reactant: OC1=CC=CC(C=O)=C1, second reactant: CC(=O)C1=CC=CC=C1
+The SMILES answer is: OC1=CC=CC(C=CC(=O)C2=CC=CC=C2)=C1
+
+"
+"Predict the product for the following reaction: First reactant: OC1=CC=CC(C=O)=C1, second reactant: COC1=CC=C(C=C1)C(C)=O
+The SMILES answer is: COC1=CC=C(C=C1)C(=O)\C=C\C1=CC(O)=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: BrC1=CC=C(C=O)C=C1, second reactant: CC(=O)C1=CC=CC=C1
+The SMILES answer is: BrC1=CC=C(C=CC(=O)C2=CC=CC=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: NC1=C(C=O)C=CC=C1, second reactant: CC(=O)C1=CC=CC=C1
+The SMILES answer is: C1=CC=C(C=C1)C1=NC2=CC=CC=C2C=C1
+
+"
+"Predict the product for the following reaction: First reactant: FC1=C(C=O)C=CC=C1, second reactant: COC1=CC=C(C=C1)C(C)=O
+The SMILES answer is: COC1=CC=C(C=C1)C(=O)\C=C\C1=CC=CC=C1F
+
+"
+"Predict the product for the following reaction: First reactant: O=C1CCCC1, second reactant: O=C1CCCC1
+The SMILES answer is: O=C1CCCC1=C1CCCC1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC=CC1=CC=CC=C1, second reactant: CC(=O)C1=CC=CC=C1
+The SMILES answer is: O=C(C=CC=CC1=CC=CC=C1)C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: BrC1=CC(C=O)=CC=C1, second reactant: CC(=O)C1=CC=CC=C1
+The SMILES answer is: BrC1=CC(\C=C\C(=O)C2=CC=CC=C2)=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=CC=C1, second reactant: COC1=CC=CC=C1C=O
+The SMILES answer is: COC1=C(\C=C\C(=O)C2=CC=CC=C2)C=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=CC=C1, second reactant: O=CC1=C2C=CC=CC2=CC2=CC=CC=C12
+The SMILES answer is: O=C(C=CC1=C2C=CC=CC2=CC2=C1C=CC=C2)C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=CC=C1, second reactant: CCCCO
+The SMILES answer is: CCCCCC(=O)C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC=CC=C1C=O, second reactant: CC(C)=O
+The SMILES answer is: COC1=CC=CC=C1C=CC(C)=O
+
+"
+"Predict the product for the following reaction: First reactant: CCOC(=O)C(=O)OCC, second reactant: CC(C)=O
+The SMILES answer is: CCOC(=O)C(=O)CC(C)=O
+
+"
+"Predict the product for the following reaction: First reactant: CCOC(=O)C(=O)OCC, second reactant: COC1=CC=C(C=C1)C(C)=O
+The SMILES answer is: CCOC(=O)C(=O)CC(=O)C1=CC=C(OC)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CCOC(=O)C(=O)OCC, second reactant: COC1=C(OC)C=C(C=C1)C(C)=O
+The SMILES answer is: CCOC(=O)C(=O)CC(=O)C1=CC(OC)=C(OC)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC1=CC=C(C=O)C(OC)=C1, second reactant: COC1=CC=C(C=C1)C(C)=O
+The SMILES answer is: COC1=CC=C(C=C1)C(=O)\C=C\C1=C(OC)C=C(OC)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=C\C=C\C1=CC=CC=C1, second reactant: CC(C)=O
+The SMILES answer is: CC(=O)\C=C\C=C\C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: COC(=O)C(=O)OC, second reactant: CC(C)=O
+The SMILES answer is: COC(=O)C(=O)CC(C)=O
+
+"
+"Predict the product for the following reaction: First reactant: COC1=C(O)C=C(C=O)C=C1, second reactant: CC(C)=O
+The SMILES answer is: COC1=C(O)C=C(\C=C\C(C)=O)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(C)=O, second reactant: CC=CC=O
+The SMILES answer is: CC=CC=CC(C)=O
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=CS1, second reactant: CC(=O)C1=CC=CC=N1
+The SMILES answer is: O=C(C=CC1=CC=CS1)C1=NC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: CN(=O)=O, second reactant: FC1=CC=C(C=O)C=C1
+The SMILES answer is: FC1=CC=C(\C=C\N(=O)=O)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CCOC(C)=O, second reactant: CC(C)=O
+The SMILES answer is: CCOC(=O)CC(C)(C)O
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=CC=N1, second reactant: CC(=O)C1=CC=CC=C1
+The SMILES answer is: O=C(C=CC1=NC=CC=C1)C1=CC=CC=C1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=CO1, second reactant: CC(=O)C1=CC=CO1
+The SMILES answer is: O=C(C=CC1=CC=CO1)C1=CC=CO1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=CO1, second reactant: CC(=O)C1=CC=CS1
+The SMILES answer is: O=C(C=CC1=CC=CO1)C1=CC=CS1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=CO1, second reactant: CC(=O)C1=CC=C(F)C=C1
+The SMILES answer is: FC1=CC=C(C=C1)C(=O)C=CC1=CC=CO1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=CS1, second reactant: CC(=O)C1=CC=CO1
+The SMILES answer is: O=C(C=CC1=CC=CS1)C1=CC=CO1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=CS1, second reactant: CC(=O)C1=CC=CS1
+The SMILES answer is: O=C(C=CC1=CC=CS1)C1=CC=CS1
+
+"
+"Predict the product for the following reaction: First reactant: O=CC1=CC=CS1, second reactant: CC(C)=O
+The SMILES answer is: CC(=O)C=CC1=CC=CS1
+
+"
+"Predict the product for the following reaction: First reactant: CC1=CC=C(O1)C=O, second reactant: CC(=O)C1=CC=C(Cl)C=C1
+The SMILES answer is: CC1=CC=C(O1)C=CC(=O)C1=CC=C(Cl)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC1=CC=C(O1)C=O, second reactant: CC(=O)C1=CC=C(Br)C=C1
+The SMILES answer is: CC1=CC=C(O1)C=CC(=O)C1=CC=C(Br)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=CC=N1, second reactant: COC1=CC=C(C=O)C=C1
+The SMILES answer is: COC1=CC=C(\C=C\C(=O)C2=NC=CC=C2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=CO1, second reactant: CC1=CC=C(C=O)C=C1
+The SMILES answer is: CC1=CC=C(C=CC(=O)C2=CC=CO2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=CO1, second reactant: ClC1=CC=C(C=O)C=C1
+The SMILES answer is: ClC1=CC=C(C=CC(=O)C2=CC=CO2)C=C1
+
+"
+"Predict the product for the following reaction: First reactant: CC(=O)C1=CC=CO1, second reactant: COC1=CC=C(C=O)C=C1
+The SMILES answer is: COC1=CC=C(C=CC(=O)C2=CC=CO2)C=C1
+
+"
