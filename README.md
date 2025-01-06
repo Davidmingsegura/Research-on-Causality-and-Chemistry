@@ -1,6 +1,6 @@
 # Leveraging the resolution of Chemistry problems with Language Models and Causality
 
-![Alt text](./images/image_band_project.jpg)
+![Alt text](./images/image_band_project2.jpg)
 Source image: https://chatgpt.com
 
 ## Overview
@@ -38,17 +38,18 @@ The research employed the following packages and workflows:
 
 The workflows involved:
   - For the prompting stategy, a memory structure experiment was held with langchain while involving causality:
-
-  ![Alt text](./images/scheme_workflow.jpg)
-
+<div align="center">
+  <img src="./images/scheme_workflow2.jpg" alt="Workflow Multimodal" style="width: 80%;">
+</div>
   - For the ensemble experiment, predictions involving causality and no causality were attempted to be discriminated:
-
-  ![Alt text](./images/ensemble_workflow.jpg)
-
+  
+<div align="center">
+  <img src="./images/ensemble_workflow2.jpg" alt="Workflow Ensemble" style="width: 80%;">
+</div>
   - For the multi-modal approach, three modalities were involved and fused using different alignment mechanims:
 
 <div align="center">
-  <img src="./images/work_flow_multimodal.jpg" alt="Alt text" />
+  <img src="./images/work_flow_multimodal2.jpg" alt="Alt text" />
 </div>
 
 ---
