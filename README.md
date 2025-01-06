@@ -38,15 +38,15 @@ The research employed the following packages and workflows:
 The workflows involved:
   - For the prompting stategy, a memory structure experiment was held with langchain while involving causality:
 
-  ![Alt text](./images/scheme_workflow.pdf)
+  ![Alt text](./images/scheme_workflow.jpeg)
 
   - For the ensemble experiment, predictions involving causality and no causality were attempted to be discriminated:
 
-  ![Alt text](./images/ensemble_workflow.pdf)
+  ![Alt text](./images/ensemble_workflow.jpeg)
 
   - For the multi-modal approach, three modalities were involved and fused using different alignment mechanims:
 
-  ![Alt text](./images/work_flow_multimodal.pdf)
+  ![Alt text](./images/work_flow_multimodal.jpeg)
 
 ---
 
