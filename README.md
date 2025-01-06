@@ -56,8 +56,8 @@ The workflows involved:
 ## Key Results
 The study uncovered the following:
 1. **Finding 1**: Involving causal prompts or stimulating causality in GPT models to solve for problems requiring chemical logic did not improve the resolution performance.
-2. **Finding 2**: The correctly classified chemical test questions appeared to be different when involving causality and when no causality was used. 
-3. **Finding 3**: Multi-modality models are far superior at solving the same problems, and it has been shown that involving causality under the form of directed acyclic graphs (DAGs) could push the performance of the model even further.
+2. **Finding 2**: For certain tasks, around 50% in dissimilarity was observed for the correctly predicted instances between models using causal reasoning and when not using it. This led to the construction of an emsemble experiment to study the possibility of fusing the two approach to enhance the performance. The results showed that a pattern could be observed for tie-breaking purposes.
+3. **Finding 3**: Multi-modality models are far superior at solving the same problems, and it has been shown that involving causality under the form of causal graphs could push the performance of the model even further.
 
 ---
 
